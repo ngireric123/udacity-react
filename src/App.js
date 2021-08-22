@@ -16,7 +16,7 @@ const contacts = [
   },
   {
     "id": "tyler",
-    "name": "Tyler McGinnis",
+    "name": "Tyler McGinniss",
     "handle": "tylermcginnis",
     "avatarURL": "http://localhost:5001/tyler.jpg"
   }
